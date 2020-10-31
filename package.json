@@ -1,0 +1,19 @@
+{
+  "name": "shopee",
+  "version": "1.0.0",
+  "description": "Một dự án hay ho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopee"
+  ],
+  "author": "lrndom",
+  "license": "MIT",
+  "dependencies": {
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
